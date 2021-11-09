@@ -1,0 +1,26 @@
+99 Desires is program to list and manage your dresires and dreams.
+Copyright (C) 2019 Matteo Giuseppe Bersani
+Email: mail@matteobersani.com
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program (see below). You can aldo see http://www.gnu.org/licenses for the original text (GNU GPL v.3).
+
+
+
+########################################################################
+####  INSTRUZIONI  ####
+########################################################################
+
+
+
+99 DESIDERI
+
+99 Desideri è un programma scritto in Php, CSS e Jquery per gestire una lista di desideri.
+Per utilizzarlo è necessario aver configurato il proprio computer come server PHP ad esempio con Xampp o MAMP.
+
+Come usarlo.
+1) Una volta scompattato lo zip sposta tutta la cartella in una cartella a tua scelta nel server Php.
+2) Apri il tuo browser preferito e vai all'indirizzo dove hai caricato il progetto e apri index.php.
+3) Divertiti!

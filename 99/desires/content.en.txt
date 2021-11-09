@@ -1,0 +1,6 @@
+<li>
+	I want to Download 99 Desires. - <a href="remove" class="jq-post accomplished">Accomplished</a>
+</li>
+<li>
+	I want to install 99 Desires on my pc. - <a href="remove" class="jq-post accomplished">Accomplished</a>
+</li>

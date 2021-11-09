@@ -1,0 +1,39 @@
+/*
+W3.CSS is free to use. No license is necessary. https://www.w3.org/Style/CSS/Overview.en.html
+
+About 99 Desires and the code:
+
+99 Desires is program to list and manage your dresires and dreams.
+Copyright (C) 2019 Matteo Giuseppe Bersani
+Email: mail@matteobersani.com
+
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program (see below). You can aldo see http://www.gnu.org/licenses for the original text (GNU GPL v.3).
+*/
+
+html,body{margin:0;padding:0;font-family:'Montserrat';font-size:21px;}
+h1{font-size:31px;margin:0 0 21px 0;font-weight:bold;}
+a,a:link,a:visited{color:#0a0;}
+#info-page, .quote{font-size:16px;}
+#languages{background:#eee;width:100%;overflow:hidden;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin-top:55px;}
+#languages p{padding:55px;margin:0;}
+.center{text-align:center;}
+.container{margin:0px auto;max-width:987px;padding:21px;}
+.flag{width:24px;}
+.flag-container{font-size:24px;line-height:24px;text-align:center;}
+.form-container{text-align:left;margin:34px auto;}
+.form-add{width:100%;height:34px;border:1px solid #999;margin-bottom:8px;max-width:377px;}
+.green{background:#dfd;}
+.info-box{display:none;}
+.info-box, .quote{background:#dfd;padding:21px;border:1px solid #aca;margin-bottom:21px;}
+.left{float:left;display:inline-block;}
+.license{margin:34px auto;font-size:14px;}
+.list-99 li{margin-bottom:34px;}
+.menu,.title{display:block;overflow:hidden;height:55px;line-height:55px;}
+.menu a, .menu a:link, .menu a:visited{color:#000;text-decoration:none;}
+.right{float:right;display:inline-block;}
+.title{margin-bottom:13px;}
+.title a{text-decoration:none;}
